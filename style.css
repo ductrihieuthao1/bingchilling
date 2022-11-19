@@ -1,0 +1,71 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.container_promotion {
+
+    max-width: 60%;
+    margin: auto;
+}
+.container_promotion h1 {
+    text-align: center;
+    font-size: 50px;
+    word-spacing: 7px;
+}
+.allmenu h3 {
+    font-size: 18px;
+}
+
+.allmenu .box {
+    font-family: 'LC Sac Trial', sans-serif;
+    padding: 10px;
+                         
+}
+.allmenu .price button {
+    background-color:#e4b3ce ;
+    border: none;
+    padding: 1px 10px;
+    color: white;
+    font-size: 11px;
+    border-radius: 10px;
+
+
+}
+.allmenu .price p {
+    margin-bottom: 0px;
+}
+
+.banner{
+    margin: 30px 0;
+    background: url(./image/132408_shutterstock_406445776.jpg) ;
+    background-position: 0px -80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    filter: grayscale(40%);
+}
+.banner .number_banner {
+
+    max-width: 90%;
+    margin: auto;
+    padding-top: 70px;
+}
+.banner .number_banner .des {
+    text-align: center;
+    color: rgb(45, 45, 42);
+  
+}
+.banner .number_banner .des p {
+    font-weight: 700;
+}
+
+.info_new .container {
+    max-width: 60%;
+    margin: auto;
+}
+.ice_product .block i {
+    color: #c2bfc1;
+    font-size: 11px;
+    margin-right: 5px;
+}
